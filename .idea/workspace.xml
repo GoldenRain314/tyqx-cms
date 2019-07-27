@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0be174a7-ef4c-47ae-ae4e-a338bbdc8390" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iconUrl</find>
+      <find>roleListTable</find>
+      <find>expires</find>
+      <find>spring.redis</find>
+      <find>findUserInfo</find>
+      <find>UserInfo</find>
+      <find>StringUtils</find>
+      <find>Map</find>
+      <find>Arrays</find>
+      <find>ConfigBuilder</find>
+      <find>initConfig</find>
+      <find>debug</find>
+      <find>info</find>
+      <find>ConsoleAppender</find>
+      <find>loginLogListTable</find>
+      <find>G</find>
+      <find>outMsg</find>
+      <find>setGlobalSessionTimeout</find>
+      <find>outErrorMsg</find>
+      <find>loginErrorCount</find>
+      <find>MAX_LOGIN_ERROR_NUM</find>
+      <find>loginUserId</find>
+      <find>getAllDirectoryPermissions</find>
+      <find>getMenuPermissions</find>
+      <find>resourceTypeSelect</find>
+      <find>resourceType</find>
+      <find>parentSelectData</find>
+      <find>xtreeData</find>
+      <find>AutoMetaObjectHandler</find>
+      <find>expire</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>info</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\SoftwareInstallationDirectory\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="D:/SoftwareInstallationDirectory/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\SoftwareInstallationDirectory\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OYKfVnRg55ORSLOi0DmDC0aqlJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\tyqx-cms\consumer\src\main\resources\static\js\log" />
+      <recent name="E:\IdeaProjects\tyqx-cms\consumer\src\main\resources\templates\log" />
+      <recent name="E:\IdeaProjects\tyqx-cms\consumer\src\main\resources\static\js\loginLog" />
+      <recent name="E:\IdeaProjects\tyqx-cms\consumer\src\main\resources\templates\loginLog" />
+      <recent name="E:\IdeaProjects\tyqx-cms\provider\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xieke.test.tyqxcms.config" />
+      <recent name="com.xieke.test.tyqxcms.dto" />
+      <recent name="com.xieke.test.tyqxcms.tools.md5" />
+      <recent name="com.xieke.test.tyqxcms.web" />
+      <recent name="com.xieke.test.demo.boot.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\tyqx-cms\consumer\src\main\resources\static\js\modules" />
+      <recent name="E:\IdeaProjects\tyqx-cms\consumer\src\main\resources\static\js" />
+      <recent name="E:\IdeaProjects\tyqx-cms\consumer\src\main\resources\static\js\icon" />
+      <recent name="E:\IdeaProjects\tyqx-cms\consumer\src\main\resources\static" />
+      <recent name="E:\IdeaProjects\tyqx-cms\provider\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.18654267" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="AddressUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xieke.test.tyqxcms.util.AddressUtils" />
+      <module name="consumer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xieke.test.tyqxcms.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xieke.test.tyqxcms.util.PasswordEncoder" />
+      <module name="consumer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xieke.test.tyqxcms.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TyqxCmsGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xieke.test.tyqxcms.tools.generator.TyqxCmsGenerator" />
+      <module name="tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xieke.test.tyqxcms.tools.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xieke.test.tyqxcms.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xieke.test.tyqxcms.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xieke.test.tyqxcms.code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xieke.test.tyqxcms.ServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tools" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xieke.test.tyqxcms.tools.ToolsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PasswordEncoder" />
+      <item itemvalue="Application.TyqxCmsGenerator" />
+      <item itemvalue="Application.AddressUtils" />
+      <item itemvalue="Spring Boot.ToolsApplication" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.ServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.ServiceApplication" />
+        <item itemvalue="Application.TyqxCmsGenerator" />
+        <item itemvalue="Application.AddressUtils" />
+        <item itemvalue="Application.PasswordEncoder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showModules" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be174a7-ef4c-47ae-ae4e-a338bbdc8390" name="Default" comment="" />
+      <created>1526287012606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526287012606</updated>
+      <workItem from="1526287017104" duration="622000" />
+      <workItem from="1526287758699" duration="10034000" />
+      <workItem from="1526343765881" duration="18612000" />
+      <workItem from="1526375274544" duration="3805000" />
+      <workItem from="1526430419583" duration="6731000" />
+      <workItem from="1528509417978" duration="449000" />
+      <workItem from="1528510743283" duration="757000" />
+      <workItem from="1531099662443" duration="2311000" />
+      <workItem from="1531102023844" duration="37820000" />
+      <workItem from="1531269866497" duration="318000" />
+      <workItem from="1531270258001" duration="6762000" />
+      <workItem from="1531617016729" duration="1368000" />
+      <workItem from="1531618408574" duration="14665000" />
+      <workItem from="1531718351389" duration="12578000" />
+      <workItem from="1531733541443" duration="4188000" />
+      <workItem from="1531738175102" duration="4329000" />
+      <workItem from="1531783866620" duration="2254000" />
+      <workItem from="1531867272322" duration="1643000" />
+      <workItem from="1532743293524" duration="8685000" />
+      <workItem from="1532752759299" duration="3237000" />
+      <workItem from="1532848126302" duration="3063000" />
+      <workItem from="1533035344283" duration="5497000" />
+      <workItem from="1533219614129" duration="3835000" />
+      <workItem from="1533345573746" duration="2811000" />
+      <workItem from="1533395987042" duration="3148000" />
+      <workItem from="1533431580548" duration="26068000" />
+      <workItem from="1533470558295" duration="15861000" />
+      <workItem from="1533907901927" duration="10676000" />
+      <workItem from="1533952934157" duration="19677000" />
+      <workItem from="1533973221551" duration="1730000" />
+      <workItem from="1534041426401" duration="19749000" />
+      <workItem from="1534076717921" duration="12472000" />
+      <workItem from="1534921330180" duration="22384000" />
+      <workItem from="1534986262129" duration="15682000" />
+      <workItem from="1535075022375" duration="11120000" />
+      <workItem from="1535161527138" duration="13747000" />
+      <workItem from="1535175877239" duration="3173000" />
+      <workItem from="1535333518413" duration="8389000" />
+      <workItem from="1535343077316" duration="879000" />
+      <workItem from="1535373423547" duration="2661000" />
+      <workItem from="1535377361278" duration="764000" />
+      <workItem from="1535411444466" duration="719000" />
+      <workItem from="1536378031028" duration="545000" />
+      <workItem from="1537963561129" duration="8833000" />
+      <workItem from="1538356675631" duration="18157000" />
+      <workItem from="1539177250966" duration="3235000" />
+      <workItem from="1539213419721" duration="5571000" />
+      <workItem from="1540621760239" duration="8459000" />
+      <workItem from="1542421045180" duration="16507000" />
+      <workItem from="1542448230371" duration="4076000" />
+      <workItem from="1543043277124" duration="9459000" />
+      <workItem from="1543054623922" duration="792000" />
+      <workItem from="1563801988249" duration="1898000" />
+      <workItem from="1563891663188" duration="2646000" />
+      <workItem from="1563894365991" duration="766000" />
+      <workItem from="1564063073415" duration="4784000" />
+      <workItem from="1564148673348" duration="404000" />
+      <workItem from="1564149203173" duration="2813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="D:" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/authc/UnknownAccountException.class</url>
+          <line>20</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.1.6/mybatis-plus-support-2.1.6.jar!/com/baomidou/mybatisplus/mapper/Wrapper.class</url>
+          <line>523</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="request.getSession().getAttributeNames()" />
+        <watch expression="SecurityUtils.getSubject()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
